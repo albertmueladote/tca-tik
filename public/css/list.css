@@ -1,0 +1,6 @@
+table tbody img{
+	width: 20px;
+}
+table tbody img:hover{
+	cursor: pointer;
+}

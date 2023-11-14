@@ -1,0 +1,72 @@
+.menu .content{
+	padding: 25px;
+}
+
+.wrapper{
+	padding: 10px;
+	border: 1px solid grey;
+	height: 200px;
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.menu .content div:hover{
+	cursor: pointer;
+}
+
+.menu .content .image {
+	text-align: left;
+}
+
+.menu .content img{
+	height: 50px;
+}
+
+.menu .content .text {
+	text-align: left;
+}
+
+.menu .content .info {
+	margin-top: 10px;
+	font-size: 3rem;
+}
+
+.menu .content .sub-info {
+	font-size: 0.8rem;
+}
+
+.menu .content .fake .image {
+	text-align: center!important;
+}
+
+.fake .image{
+	height: 100%;
+	width: auto;
+}
+
+.fake .image img{
+	height: 100%;
+	width: auto;
+}
+
+.data {
+	margin-top: 32px;
+}
+.data .wrapper{
+	height: 300px;
+	border: 1px solid grey;
+	position: relative;
+}
+
+.bar{
+	display: inline-block;
+	vertical-align: top;
+	position: absolute;
+	bottom: 0;
+	width: 60px;
+	border: 1px solid blue;
+	text-align: center;
+}
+
+.data-2 .wrapper div {
+	margin-top: 10px;
+}

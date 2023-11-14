@@ -1,0 +1,15 @@
+label {
+	width: 20%;
+}
+
+input, select,textarea {
+	width: 79%;
+}
+
+textarea {
+	resize: none;
+}
+
+select[name = "id_product[]"]{
+	height: 300px;
+}
